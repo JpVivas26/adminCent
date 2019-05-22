@@ -1,7 +1,6 @@
 .box{
-
-    width: 1350px;
-    height: 638px;
+    width: 1365px;
+    height: 655px;
  
 }
 .up_box{
@@ -25,10 +24,11 @@ justify-content: space-around;
 }
 .box_rigth{
     justify-content: flex-start;
-    height: 500px;
+    height: 503px;
     width: 300px;
     margin-block-start: 30px;
     margin-right: 60px;
+
 }
 .box_left{
     margin-top: -150px;
@@ -37,4 +37,6 @@ justify-content: space-around;
 }
 .box_under{
     text-align: end;
+    
+    
 }
