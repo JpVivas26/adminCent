@@ -3,19 +3,19 @@
     width: 1350px;
     height: 638px;
 
+
 }
 .box_center{
-    
+
     display: flex;
     justify-content: center;
     height: 600px;
-
-    
+    justify-content: space-around;
 }
 .box_formu{
-    
+
     width: 600px;
-    height: 500px;
+    height: 600px;
     margin-block-start: 1%;
 }
 
@@ -28,6 +28,11 @@
     width: 200px;
 }
 .box_cuantos{
+     width: 200px;
+}
+.box_formu_2{
     
-    width: 200px;
+    width: 600px;
+    height: 600px;
+    margin-block-start: 1%;
 }
