@@ -1,0 +1,33 @@
+.box{
+    
+    width: 1350px;
+    height: 638px;
+
+}
+.box_center{
+    
+    display: flex;
+    justify-content: center;
+    height: 600px;
+
+    
+}
+.box_formu{
+    
+    width: 600px;
+    height: 500px;
+    margin-block-start: 1%;
+}
+
+.box_ahorro{
+    display: flex;
+}
+
+.box_check{
+    
+    width: 200px;
+}
+.box_cuantos{
+    
+    width: 200px;
+}
