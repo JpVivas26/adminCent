@@ -1,5 +1,8 @@
 body {
-    background-image: url(img/fondo.jpg)
+    background-image: url(img/fondo.jpg);
+}
+.nav-custom {
+    margin-top: 1px;
 }
 
 .box{
