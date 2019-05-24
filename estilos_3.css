@@ -1,5 +1,25 @@
 .gastos_fijos{
-    border: 2px solid green;
     width: 500px;
+    margin-left: 5%;
+    margin-top: 20px;
+    
+}
 
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.gastos_extras{
+    width: 500px;
+    margin-left: 50%;
+    margin-top: -227px;
+}
+.adicionales{
+    margin-top: 60px;
+}
+.barra_avance{
+    width: 900px;
+    margin-top: 300px;
+    margin-left: 120px;
 }

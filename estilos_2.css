@@ -47,3 +47,19 @@ body {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+.input_dire{
+
+width: 420px;
+}
+.precio{
+    width: 200px;
+
+}
+.box_motivo{
+    margin-left: -10px;  
+}
+.box_precio{
+
+    display: flex;
+    justify-content: space-between;
+}
